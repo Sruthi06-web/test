@@ -26,7 +26,6 @@ Cyber security refers to the body of technologies, processes and practices desig
 
 5. This has driven standards boards like the National Institute of Standards and Technologies(NIST) to release frameworks to help organizations understand their security risks, improve cybersecurity measures and prevent cyber attacks.
 
-# Heading 2
 
 > Impact of cybercrime :
 
