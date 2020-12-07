@@ -46,5 +46,5 @@ A lack of focus on cybersecurity can damage your business in range of ways inlud
 | python     |
 | java       |
 | HTML       |
-| C#         |  
+| C++        | 
 
