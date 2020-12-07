@@ -3,9 +3,7 @@
 Cyber security refers to the body of technologies, processes and practices designed to protect networks, devices, programs and data from attack, damage or anauthourized access.
 
 ![cybersecuritylogopng](https://images.app.goo.gl/psDwUp49yYA4WcWYA)
-
-
-# Heading 1
+ 
  
  > The importance of ccy :
 
